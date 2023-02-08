@@ -1,0 +1,6 @@
+*.out
+*.tst
+*.cmp
+tools/
+projects/00/
+projects/demo/
