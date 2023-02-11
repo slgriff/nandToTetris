@@ -1,6 +1,7 @@
 *.out
 *.tst
 *.cmp
+*.hack
 tools/
 projects/00/
 projects/demo/
